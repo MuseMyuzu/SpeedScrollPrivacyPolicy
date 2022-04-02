@@ -1,0 +1,2 @@
+# SpeedScrollPrivacyPolicy
+SpeedScroll アプリのプライバシーポリシー
