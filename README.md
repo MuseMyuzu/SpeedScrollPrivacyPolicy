@@ -3,7 +3,7 @@
 
 2022/04/02 制定
 
-# （English）The Privacy Policy of "5m sprints in your smartphone! SpeedScroll"
+# （English）The Privacy Policy of "5m sprints --SpeedScroll--"
 The application does not collect any your personal information.
 
 April 2nd, 2022
