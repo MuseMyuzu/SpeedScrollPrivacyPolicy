@@ -44,7 +44,7 @@ Information such as the user's Twitter account is not sent.
 
 ### Analytics
 This application uses Google Firebase Analytics and Google Admob.
-Please refer to the following links on the information to be obtained, the purpose of use, and provision to third parties.
+Please refer to the following links on the information to be collected, the purpose of use, and the provision to third parties.
 
 Google:
 https://policies.google.com/privacy
