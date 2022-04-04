@@ -39,7 +39,7 @@ Twitter: @musemyuzu
 This application does not provide personally identifiable information to third parties.
 
 ### Share
-If you push the "Share" Button, only the text is copied to the clipboard. 
+If you push the "Share" Button, the text is copied to the clipboard. 
 Information such as the user's Twitter account is not sent.
 
 ### Analytics
